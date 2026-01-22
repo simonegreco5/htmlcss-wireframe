@@ -1,5 +1,11 @@
+* {
+     margin: 0; 
+     padding: 0;   
+    box-sizing: border-box; 
+}
+
 .pinco_pallo {
-    width: 455px;
+    width: 340px;
     border: 2px solid black ;
     padding: 10px;
     margin: 15px;
@@ -7,6 +13,7 @@
 
 .site_header {
     border-bottom: 2px solid black;
+    padding: 10px;
 }
 
 .site_footer {
